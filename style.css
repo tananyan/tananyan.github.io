@@ -1,0 +1,50 @@
+*{
+  margin: 0; 
+  padding: 0;
+  background-color: #001;
+  color: #fff;
+  transition: .17s all;
+}
+
+section{
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  font-family: Helvetica, Sans-Serif;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+h1{
+  font-family: Helvetica, Sans-Serif;
+/*   font-size: 24px;
+  line-height: 38px; */
+}
+
+hr{
+	margin: 20px 0;
+	padding: 0;
+	height: 10px;
+	border: none;
+	border-top: 1px solid #fff;
+	box-shadow: 0 10px 10px -10px #FcFcFc inset;
+}
+
+a{
+  z-index: 1;
+  position: relative;
+  width: 100px;
+  text-decoration: none;
+  text-transform: capitalize;
+  text-shadow: 1px 1px 8px rgba(1,255,1,0.7), 
+    1px 1px 15px rgba(1,255,1,0.7), 
+    1px 1px 15px rgba(1,255,1,0.7);
+}
+a:hover{
+  z-index: 2;
+  font-size: 38px;
+  text-decoration: none;
+  text-shadow: 1px 1px 8px rgba(255,255,255,0.7), 
+    1px 1px 15px rgba(255,255,255,0.7), 
+    1px 1px 15px rgba(255,255,255,0.7);
+}

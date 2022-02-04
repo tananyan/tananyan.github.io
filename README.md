@@ -1,5 +1,5 @@
 ### Hi there 👋
-tananyan.github.io
+https://tananyan.github.io/
 
 <!--
 **tananyan/tananyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

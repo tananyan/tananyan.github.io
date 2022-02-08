@@ -52,8 +52,18 @@ a {
   transition: 0.17s all;
 }
 a:hover {
-  z-index: 2;
   font-size: 45px;
+  line-height: 35px;
   text-decoration: none;
   text-shadow: 1px 1px 8px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7);
 }
+a:nth-child(1) {
+  margin-right: 15px;
+}
+a + a {
+  margin-left: 15px;
+}
+a:nth-child(1):hover {
+  margin-right: -10px;
+}
+

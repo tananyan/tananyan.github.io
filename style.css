@@ -70,8 +70,8 @@ a:nth-child(1):hover {
 .loader {
   margin: 0 auto;
   position: relative;
-  width: 240px;
-  height: 240px;
+  width: 200px;
+  height: 200px;
   /* animation: 5s animate linear infinite; */
 }
 .loader span {

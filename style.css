@@ -35,15 +35,15 @@ hr {
 ul {
   padding: 0vh 1vw;
   list-style-type: none;
-  font-size: 35px;
-  line-height: 45px;
+  font-size: 25px;
+  line-height: 30px;
   color: #fff;
-  text-shadow: 1px 1px 8px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7);
+  text-shadow: 1px 1px 8px rgba(255, 255, 1, 0.7), 1px 1px 15px rgba(255, 255, 1, 0.7), 1px 1px 15px rgba(255, 255, 1, 0.7);
 }
 
 a {
-  font-size: 35px;
-  line-height: 45px;
+  font-size: 24px;
+  line-height: 35px;
   color: #fff;
   text-decoration: none;
   text-transform: capitalize;
@@ -52,8 +52,8 @@ a {
   transition: 0.17s all;
 }
 a:hover {
-  font-size: 45px;
-  line-height: 35px;
+  font-size: 28px;
+  line-height: 30px;
   text-decoration: none;
   text-shadow: 1px 1px 8px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7), 1px 1px 15px rgba(1, 255, 1, 0.7);
 }
